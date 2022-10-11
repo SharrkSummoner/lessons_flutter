@@ -1,5 +1,5 @@
 import 'package:first_ptoj/pages/chose_location26.dart';
-import 'package:first_ptoj/pages/loading27.dart';
+import 'package:first_ptoj/pages/loading28.dart';
 import 'package:flutter/material.dart';
 import 'package:first_ptoj/pages/home.dart';
 

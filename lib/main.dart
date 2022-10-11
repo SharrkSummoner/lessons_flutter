@@ -1,5 +1,3 @@
-import 'package:first_ptoj/lessens/lesson25.dart';
-import 'package:first_ptoj/lessens/lesson26.dart';
 import 'package:first_ptoj/lessens/lesson27.dart';
 import 'package:flutter/material.dart';
 
